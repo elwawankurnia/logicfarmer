@@ -1,2 +1,2 @@
 # logicfarmer
-create the code ya
+create coding and aplication
